@@ -3,13 +3,6 @@ import { connect } from 'dva';
 import {
     Row,
     Col,
-    Icon,
-    Card,
-    Tabs,
-    Table,
-    Radio,
-    Menu,
-    Dropdown,
     DatePicker,
     Button,
     Select,
